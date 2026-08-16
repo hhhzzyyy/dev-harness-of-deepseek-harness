@@ -9,6 +9,8 @@
 | [DeepSeek Harness 架构分析](deepseek-harness-harness-architecture.md) | Harness 产品本身的架构设计、核心子系统、插件机制 |
 | [AGENTS.md 层级体系与加载机制（中文）](deepseek-harness-agents-system-zh.md) | AGENTS.md 的层级结构、动态加载机制、各层内容详解 |
 | [AGENTS.md Hierarchy System (English)](deepseek-harness-agents-system-en.md) | English version of AGENTS.md hierarchy and loading mechanism |
+| [记忆机制（中文）](deepseek-harness-memory-system-zh.md) | Session 事件溯源、压缩、持久化、MCP 语义记忆等完整记忆体系 |
+| [Memory System (English)](deepseek-harness-memory-system-en.md) | English version of memory system architecture |
 | [AI 开发约定与方法论](#ai-开发约定与方法论) | 项目作为 AI 开发产物的开发流程、规范与方法论 |
 
 ---
